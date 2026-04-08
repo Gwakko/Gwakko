@@ -17,6 +17,8 @@ I pick the right tool for each task — not the other way around.
 
 | Project | Stack | What it demonstrates |
 |---------|-------|---------------------|
+| [go-microservices-orders](https://github.com/Gwakko/go-microservices-orders) | Go, gRPC, NATS | 5 microservices, hexagonal arch, event-driven |
+| [go-concurrency-patterns](https://github.com/Gwakko/go-concurrency-patterns) | Go | Worker pools, channels, atomics, pipeline patterns |
 | [go-system-patterns](https://github.com/Gwakko/go-system-patterns) | Go, PostgreSQL | Idempotency, Outbox, Circuit Breaker, Rate Limiting |
 | [go-ws-proxy](https://github.com/Gwakko/go-ws-proxy) | Go | WebSocket/SSE/REST bridge for CLI tools |
 | [nestjs-payments-api](https://github.com/Gwakko/nestjs-payments-api) | NestJS, Stripe, PostgreSQL | Payment integration, JWT auth, Swagger |
